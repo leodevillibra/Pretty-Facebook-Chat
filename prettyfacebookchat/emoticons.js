@@ -18,7 +18,7 @@
 */
 EMOTICONS =  {};
 EMOTICONS.pfc_emoticons = {
-		':)'       : 'smile.png',
+		':)'       : ',
 		'>:('      : 'ooooo.png',
 		'-_-'      : 'boh.png',
 		':('       : 'nu.png',
